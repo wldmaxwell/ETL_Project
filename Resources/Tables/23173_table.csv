@@ -1,0 +1,106 @@
+Subject,,Estimate,,,Margin of Error,Percent,Percent Margin of Error
+SEX AND AGE,,,,,,,
+    Total population,,"2,209",,,+/-288,"2,209",(X)
+      Male,,953,,,+/-215,43.10%,+/-6.9
+      Female,,"1,256",,,+/-200,56.90%,+/-6.9
+      Sex ratio (males per 100 females),,75.9,,,+/-21.6,(X),(X)
+,,,,,,,
+      Under 5 years,,0,,,+/-12,0.00%,+/-1.5
+      5 to 9 years,,0,,,+/-12,0.00%,+/-1.5
+      10 to 14 years,,0,,,+/-12,0.00%,+/-1.5
+      15 to 19 years,,"1,432",,,+/-246,64.80%,+/-8.4
+      20 to 24 years,,729,,,+/-213,33.00%,+/-7.8
+      25 to 34 years,,20,,,+/-24,0.90%,+/-1.1
+      35 to 44 years,,12,,,+/-19,0.50%,+/-0.9
+      45 to 54 years,,6,,,+/-14,0.30%,+/-0.6
+      55 to 59 years,,10,,,+/-16,0.50%,+/-0.7
+      60 to 64 years,,0,,,+/-12,0.00%,+/-1.5
+      65 to 74 years,,0,,,+/-12,0.00%,+/-1.5
+      75 to 84 years,,0,,,+/-12,0.00%,+/-1.5
+      85 years and over,,0,,,+/-12,0.00%,+/-1.5
+,,,,,,,
+      Median age (years),,19.5,,,+/-0.3,(X),(X)
+,,,,,,,
+      Under 18 years,,21,,,+/-24,1.00%,+/-1.1
+      16 years and over,,"2,209",,,+/-288,100.00%,+/-1.5
+      18 years and over,,"2,188",,,+/-284,99.00%,+/-1.1
+      21 years and over,,311,,,+/-115,14.10%,+/-4.9
+      62 years and over,,0,,,+/-12,0.00%,+/-1.5
+      65 years and over,,0,,,+/-12,0.00%,+/-1.5
+,,,,,,,
+      18 years and over,,"2,188",,,+/-284,"2,188",(X)
+        Male,,938,,,+/-209,42.90%,+/-6.8
+        Female,,"1,250",,,+/-198,57.10%,+/-6.8
+        Sex ratio (males per 100 females),,75,,,+/-21.1,(X),(X)
+,,,,,,,
+      65 years and over,,0,,,+/-12,0,(X)
+        Male,,0,,,+/-12,-,**
+        Female,,0,,,+/-12,-,**
+        Sex ratio (males per 100 females),,-,,,**,(X),(X)
+,,,,,,,
+RACE,,,,,,,
+    Total population,,"2,209",,,+/-288,"2,209",(X)
+      One race,,"2,086",,,+/-279,94.40%,+/-2.5
+      Two or more races,,123,,,+/-58,5.60%,+/-2.5
+,,,,,,,
+      One race,,"2,086",,,+/-279,94.40%,+/-2.5
+        White,,"1,306",,,+/-270,59.10%,+/-7.3
+        Black or African American,,316,,,+/-95,14.30%,+/-4.6
+        American Indian and Alaska Native,,7,,,+/-15,0.30%,+/-0.7
+          Cherokee tribal grouping,,7,,,+/-15,0.30%,+/-0.7
+          Chippewa tribal grouping,,0,,,+/-12,0.00%,+/-1.5
+          Navajo tribal grouping,,0,,,+/-12,0.00%,+/-1.5
+          Sioux tribal grouping,,0,,,+/-12,0.00%,+/-1.5
+        Asian,,401,,,+/-111,18.20%,+/-4.8
+          Asian Indian,,52,,,+/-35,2.40%,+/-1.6
+          Chinese,,159,,,+/-72,7.20%,+/-3.0
+          Filipino,,11,,,+/-17,0.50%,+/-0.7
+          Japanese,,6,,,+/-14,0.30%,+/-0.6
+          Korean,,74,,,+/-39,3.30%,+/-1.8
+          Vietnamese,,40,,,+/-32,1.80%,+/-1.5
+          Other Asian,,59,,,+/-40,2.70%,+/-1.8
+        Native Hawaiian and Other Pacific Islander,,0,,,+/-12,0.00%,+/-1.5
+          Native Hawaiian,,0,,,+/-12,0.00%,+/-1.5
+          Guamanian or Chamorro,,0,,,+/-12,0.00%,+/-1.5
+          Samoan,,0,,,+/-12,0.00%,+/-1.5
+          Other Pacific Islander,,0,,,+/-12,0.00%,+/-1.5
+        Some other race,,56,,,+/-38,2.50%,+/-1.6
+      Two or more races,,123,,,+/-58,5.60%,+/-2.5
+        White and Black or African American,,19,,,+/-21,0.90%,+/-0.9
+        White and American Indian and Alaska Native,,15,,,+/-16,0.70%,+/-0.7
+        White and Asian,,43,,,+/-37,1.90%,+/-1.7
+        Black or African American and American Indian and Alaska Native,,0,,,+/-12,0.00%,+/-1.5
+,,,,,,,
+  Race alone or in combination with one or more other races,,,,,,,
+    Total population,,"2,209",,,+/-288,"2,209",(X)
+      White,,"1,408",,,+/-280,63.70%,+/-7.0
+      Black or African American,,344,,,+/-101,15.60%,+/-4.9
+      American Indian and Alaska Native,,25,,,+/-23,1.10%,+/-1.0
+      Asian,,474,,,+/-123,21.50%,+/-5.3
+      Native Hawaiian and Other Pacific Islander,,30,,,+/-31,1.40%,+/-1.4
+      Some other race,,66,,,+/-45,3.00%,+/-1.9
+,,,,,,,
+HISPANIC OR LATINO AND RACE,,,,,,,
+    Total population,,"2,209",,,+/-288,"2,209",(X)
+      Hispanic or Latino (of any race),,180,,,+/-77,8.10%,+/-3.1
+        Mexican,,29,,,+/-24,1.30%,+/-1.1
+        Puerto Rican,,39,,,+/-35,1.80%,+/-1.6
+        Cuban,,0,,,+/-12,0.00%,+/-1.5
+        Other Hispanic or Latino,,112,,,+/-63,5.10%,+/-2.6
+      Not Hispanic or Latino,,"2,029",,,+/-258,91.90%,+/-3.1
+        White alone,,"1,214",,,+/-246,55.00%,+/-6.4
+        Black or African American alone,,294,,,+/-89,13.30%,+/-4.4
+        American Indian and Alaska Native alone,,7,,,+/-15,0.30%,+/-0.7
+        Asian alone,,401,,,+/-111,18.20%,+/-4.8
+        Native Hawaiian and Other Pacific Islander alone,,0,,,+/-12,0.00%,+/-1.5
+        Some other race alone,,0,,,+/-12,0.00%,+/-1.5
+        Two or more races,,113,,,+/-54,5.10%,+/-2.4
+          Two races including Some other race,,0,,,+/-12,0.00%,+/-1.5
+"          Two races excluding Some other race, and Three or more races",,113,,,+/-54,5.10%,+/-2.4
+,,,,,,,
+  Total housing units,,0,,,+/-12,(X),(X)
+,,,,,,,
+"CITIZEN, VOTING AGE POPULATION",,,,,,,
+"    Citizen, 18 and over population",,"1,955",,,+/-255,"1,955",(X)
+      Male,,820,,,+/-195,41.90%,+/-7.1
+      Female,,"1,135",,,+/-178,58.10%,+/-7.1
