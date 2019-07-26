@@ -35,6 +35,7 @@ def scrape_apt_PublicSchool_info():
         school_link_soup = bs(school_link_html, 'html.parser')
         
 
+
 for PublicSchools in apartments:
     
     school_Type = school_link_soup.find('p', class_='schoolType').text
